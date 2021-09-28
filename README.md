@@ -1,7 +1,7 @@
 # SponsorBot.js
 Copie du bot SponsorBot (Advertbot ) en discord.js
 
-Avant de lancerle bot installez les node_modules ( npm i ). Ensuite, configurez le config.json
+Avant de lancer le bot installez les node_modules ( npm i ). Ensuite, configurez le config.json
 
 require: node ^12.0.0
 
